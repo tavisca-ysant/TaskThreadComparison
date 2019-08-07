@@ -1,0 +1,11 @@
+C:\Users\ysant\source\repos\TaskThreadComparison\TaskThreadComparison\bin\Release\netcoreapp2.2\TaskThreadComparison.deps.json
+C:\Users\ysant\source\repos\TaskThreadComparison\TaskThreadComparison\bin\Release\netcoreapp2.2\TaskThreadComparison.runtimeconfig.json
+C:\Users\ysant\source\repos\TaskThreadComparison\TaskThreadComparison\bin\Release\netcoreapp2.2\TaskThreadComparison.runtimeconfig.dev.json
+C:\Users\ysant\source\repos\TaskThreadComparison\TaskThreadComparison\bin\Release\netcoreapp2.2\TaskThreadComparison.dll
+C:\Users\ysant\source\repos\TaskThreadComparison\TaskThreadComparison\bin\Release\netcoreapp2.2\TaskThreadComparison.pdb
+C:\Users\ysant\source\repos\TaskThreadComparison\TaskThreadComparison\obj\Release\netcoreapp2.2\TaskThreadComparison.csproj.CoreCompileInputs.cache
+C:\Users\ysant\source\repos\TaskThreadComparison\TaskThreadComparison\obj\Release\netcoreapp2.2\TaskThreadComparison.AssemblyInfoInputs.cache
+C:\Users\ysant\source\repos\TaskThreadComparison\TaskThreadComparison\obj\Release\netcoreapp2.2\TaskThreadComparison.AssemblyInfo.cs
+C:\Users\ysant\source\repos\TaskThreadComparison\TaskThreadComparison\obj\Release\netcoreapp2.2\TaskThreadComparison.dll
+C:\Users\ysant\source\repos\TaskThreadComparison\TaskThreadComparison\obj\Release\netcoreapp2.2\TaskThreadComparison.pdb
+C:\Users\ysant\source\repos\TaskThreadComparison\TaskThreadComparison\obj\Release\netcoreapp2.2\TaskThreadComparison.csprojAssemblyReference.cache
