@@ -11,29 +11,22 @@ namespace TaskThreadComparison
     [MemoryDiagnoser]
     public class Comparison
     {
-        [Params(3)]
-        public int limit;
-        public void SaveData(int limit)
+        
+        public void SaveDataThread()
         {
-            for(int i = 0; i < limit; i++)
-            {
-
-            }
+            Thread.Sleep(2000);
         }
 
-        public void PrintData(int limit)
+        public void PrintDataThread()
         {
-            for (int i = 0; i < limit; i++)
-            {
-
-            }
+            Thread.Sleep(3000);
         }
 
         [Benchmark]
         public void Threads()
         {
-            Thread thread1 = new Thread(() => SaveData(limit));
-            Thread thread2 = new Thread(() => PrintData(limit));
+            Thread thread1 = new Thread(SaveDataThread);
+            Thread thread2 = new Thread(PrintDataThread);
             thread1.Start();
             thread2.Start();
             thread1.Join();

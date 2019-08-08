@@ -8,4 +8,5 @@ C:\Users\ysant\source\repos\TaskThreadComparison\TaskThreadComparison\obj\Releas
 C:\Users\ysant\source\repos\TaskThreadComparison\TaskThreadComparison\obj\Release\netcoreapp2.2\TaskThreadComparison.AssemblyInfo.cs
 C:\Users\ysant\source\repos\TaskThreadComparison\TaskThreadComparison\obj\Release\netcoreapp2.2\TaskThreadComparison.dll
 C:\Users\ysant\source\repos\TaskThreadComparison\TaskThreadComparison\obj\Release\netcoreapp2.2\TaskThreadComparison.pdb
+C:\Users\ysant\source\repos\TaskThreadComparison\TaskThreadComparison\obj\Release\netcoreapp2.2\TaskThreadComparison.csprojResolveAssemblyReference.cache
 C:\Users\ysant\source\repos\TaskThreadComparison\TaskThreadComparison\obj\Release\netcoreapp2.2\TaskThreadComparison.csprojAssemblyReference.cache
